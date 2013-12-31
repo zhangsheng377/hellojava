@@ -2,7 +2,7 @@ public class hello
 {
     public static void main (String args[])
     {
-        System.out.println("你好胡");
+        System.out.println("你好张");
         A a=new A();
         a.fA();
     }
